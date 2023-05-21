@@ -4,3 +4,4 @@ Disaster management website created to help people stuck in the disaster with th
 
 Technologys used:<br>
 1. HTML & CSS
+2. Javascript
